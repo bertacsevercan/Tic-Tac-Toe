@@ -5,3 +5,5 @@ This is a JetBrains Academy project and it's a 2-player game of tic tac toe.
 
 - Technologies used: Python
 
+![demo](ticTacToeDemo.gif)
+
